@@ -22,6 +22,7 @@ Financial Data Analysis and Prediction is a Python application designed for anal
 ## Getting Started
 
 1. **Clone the Repository:**
+2. https://github.com/anuka555/financial-data-analysis-prediction
 
 ## Contributing
 
